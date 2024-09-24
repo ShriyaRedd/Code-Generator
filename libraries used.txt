@@ -1,0 +1,5 @@
+The code uses two libraries:
+
+QRcode: This library is specifically designed to generate QR codes in Python. It offers functionalities to create QR codes of various sizes, with different error correction levels and allows customization of colors and appearance.
+
+PIL (Python Imaging Library): This is a powerful image-processing library for Python. While not directly related to QR code generation, it's used in this code to create an image object from the generated QR code data and then save it as a PNG file.
